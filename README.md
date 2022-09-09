@@ -1,11 +1,15 @@
 # GDP per Capita data sorting and visualisation
+Our first project / repository is going to show how we might visualize data and setting 
+steps of sorting.
+
 <br>
-## By NorthBrains Analytics 🧠
+
+> By NorthBrains Analytics 🧠
+
 <br>
-<br>
-<br>
+
 ## Usage 💡
-<br>
+
 ```python
 import pandas as pd
 import numpy as np
@@ -15,3 +19,10 @@ import plotly.express as px
 from unicodedata import lookup
 import plotly.graph_objects as go
 ```
+
+<br>
+<br>
+
+### Show Jupyter charts 📊
+According to official addnotation by **GitHub** how to show charts saved in Jupyter or Jupyter Notebook, here's a link below to **nbviewer**. All you should do it's just to copy and past our repository URL.
+Jupyter [nbviewer](https://nbviewer.org).
