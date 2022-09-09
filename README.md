@@ -25,4 +25,6 @@ import plotly.graph_objects as go
 
 ### Show Jupyter charts 📊
 According to official addnotation by **GitHub** how to show charts saved in Jupyter or Jupyter Notebook, here's a link below to **nbviewer**. All you should do it's just to copy and past our repository URL.
-Jupyter [nbviewer](https://nbviewer.org).
+<br>
+<br>
+Jupyter [nbviewer](https://nbviewer.org) ← click here 
